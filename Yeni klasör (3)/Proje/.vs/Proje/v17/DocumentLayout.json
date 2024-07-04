@@ -1,0 +1,115 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\oztur\\OneDrive\\Masa\u00FCst\u00FC\\Her sey\\Yeni klas\u00F6r (3)\\Proje\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2FB6EC0F-142B-4FD7-ABEE-B1EC830E93A2}|Proje\\Proje.csproj|c:\\users\\oztur\\onedrive\\masa\u00FCst\u00FC\\her sey\\yeni klas\u00F6r (3)\\proje\\proje\\kullan\u0131c\u0131paneli.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2FB6EC0F-142B-4FD7-ABEE-B1EC830E93A2}|Proje\\Proje.csproj|solutionrelative:proje\\kullan\u0131c\u0131paneli.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FB6EC0F-142B-4FD7-ABEE-B1EC830E93A2}|Proje\\Proje.csproj|C:\\Users\\oztur\\OneDrive\\Masa\u00FCst\u00FC\\Her sey\\Yeni klas\u00F6r (3)\\Proje\\proje\\adminpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FB6EC0F-142B-4FD7-ABEE-B1EC830E93A2}|Proje\\Proje.csproj|solutionrelative:proje\\adminpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FB6EC0F-142B-4FD7-ABEE-B1EC830E93A2}|Proje\\Proje.csproj|C:\\Users\\oztur\\OneDrive\\Masa\u00FCst\u00FC\\Her sey\\Yeni klas\u00F6r (3)\\Proje\\proje\\adminpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2FB6EC0F-142B-4FD7-ABEE-B1EC830E93A2}|Proje\\Proje.csproj|solutionrelative:proje\\adminpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FB6EC0F-142B-4FD7-ABEE-B1EC830E93A2}|Proje\\Proje.csproj|C:\\Users\\oztur\\OneDrive\\Masa\u00FCst\u00FC\\Her sey\\Yeni klas\u00F6r (3)\\Proje\\proje\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FB6EC0F-142B-4FD7-ABEE-B1EC830E93A2}|Proje\\Proje.csproj|solutionrelative:proje\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FB6EC0F-142B-4FD7-ABEE-B1EC830E93A2}|Proje\\Proje.csproj|C:\\Users\\oztur\\OneDrive\\Masa\u00FCst\u00FC\\Her sey\\Yeni klas\u00F6r (3)\\Proje\\proje\\kullan\u0131c\u0131paneli.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FB6EC0F-142B-4FD7-ABEE-B1EC830E93A2}|Proje\\Proje.csproj|solutionrelative:proje\\kullan\u0131c\u0131paneli.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FB6EC0F-142B-4FD7-ABEE-B1EC830E93A2}|Proje\\Proje.csproj|C:\\Users\\oztur\\OneDrive\\Masa\u00FCst\u00FC\\Her sey\\Yeni klas\u00F6r (3)\\Proje\\proje\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2FB6EC0F-142B-4FD7-ABEE-B1EC830E93A2}|Proje\\Proje.csproj|solutionrelative:proje\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "adminPanel.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\oztur\\OneDrive\\Masa\u00FCst\u00FC\\Her sey\\Yeni klas\u00F6r (3)\\Proje\\Proje\\adminPanel.cs",
+              "RelativeDocumentMoniker": "Proje\\adminPanel.cs",
+              "ToolTip": "C:\\Users\\oztur\\OneDrive\\Masa\u00FCst\u00FC\\Yeni klas\u00F6r (3)\\Proje\\Proje\\adminPanel.cs [Tasar\u0131m]",
+              "RelativeToolTip": "..\\..\\..\\Yeni klas\u00F6r (3)\\Proje\\Proje\\adminPanel.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-07-04T14:05:09.318Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\oztur\\OneDrive\\Masa\u00FCst\u00FC\\Her sey\\Yeni klas\u00F6r (3)\\Proje\\Proje\\Form1.cs",
+              "RelativeDocumentMoniker": "Proje\\Form1.cs",
+              "ToolTip": "C:\\Users\\oztur\\OneDrive\\Masa\u00FCst\u00FC\\Yeni klas\u00F6r (3)\\Proje\\Proje\\Form1.cs [Tasar\u0131m]",
+              "RelativeToolTip": "..\\..\\..\\Yeni klas\u00F6r (3)\\Proje\\Proje\\Form1.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-07-04T14:05:09.344Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Kullan\u0131c\u0131Paneli.cs",
+              "DocumentMoniker": "C:\\Users\\oztur\\OneDrive\\Masa\u00FCst\u00FC\\Her sey\\Yeni klas\u00F6r (3)\\Proje\\Proje\\Kullan\u0131c\u0131Paneli.cs",
+              "RelativeDocumentMoniker": "Proje\\Kullan\u0131c\u0131Paneli.cs",
+              "ToolTip": "C:\\Users\\oztur\\OneDrive\\Masa\u00FCst\u00FC\\Her sey\\Yeni klas\u00F6r (3)\\Proje\\Proje\\Kullan\u0131c\u0131Paneli.cs",
+              "RelativeToolTip": "Proje\\Kullan\u0131c\u0131Paneli.cs",
+              "ViewState": "AQIAAEEAAAAAAAAAAAAAAFkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T14:05:09.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\oztur\\OneDrive\\Masa\u00FCst\u00FC\\Her sey\\Yeni klas\u00F6r (3)\\Proje\\Proje\\Form1.cs",
+              "RelativeDocumentMoniker": "Proje\\Form1.cs",
+              "ToolTip": "C:\\Users\\oztur\\OneDrive\\Masa\u00FCst\u00FC\\Her sey\\Yeni klas\u00F6r (3)\\Proje\\Proje\\Form1.cs",
+              "RelativeToolTip": "Proje\\Form1.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAAADgAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-07-04T14:05:09.346Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Kullan\u0131c\u0131Paneli.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\oztur\\OneDrive\\Masa\u00FCst\u00FC\\Her sey\\Yeni klas\u00F6r (3)\\Proje\\Proje\\Kullan\u0131c\u0131Paneli.cs",
+              "RelativeDocumentMoniker": "Proje\\Kullan\u0131c\u0131Paneli.cs",
+              "ToolTip": "C:\\Users\\oztur\\OneDrive\\Masa\u00FCst\u00FC\\Her sey\\Yeni klas\u00F6r (3)\\Proje\\Proje\\Kullan\u0131c\u0131Paneli.cs [Design]",
+              "RelativeToolTip": "Proje\\Kullan\u0131c\u0131Paneli.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T14:05:09.649Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "adminPanel.cs",
+              "DocumentMoniker": "C:\\Users\\oztur\\OneDrive\\Masa\u00FCst\u00FC\\Her sey\\Yeni klas\u00F6r (3)\\Proje\\Proje\\adminPanel.cs",
+              "RelativeDocumentMoniker": "Proje\\adminPanel.cs",
+              "ToolTip": "C:\\Users\\oztur\\OneDrive\\Masa\u00FCst\u00FC\\Her sey\\Yeni klas\u00F6r (3)\\Proje\\Proje\\adminPanel.cs",
+              "RelativeToolTip": "Proje\\adminPanel.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAAAEUAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-07-04T14:05:09.652Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+C:\Users\oztur\OneDrive\Masaüstü\keremProje\Proje\Proje\bin\Debug\net6.0-windows\Proje.exe
+C:\Users\oztur\OneDrive\Masaüstü\keremProje\Proje\Proje\bin\Debug\net6.0-windows\Proje.deps.json
+C:\Users\oztur\OneDrive\Masaüstü\keremProje\Proje\Proje\bin\Debug\net6.0-windows\Proje.runtimeconfig.json
+C:\Users\oztur\OneDrive\Masaüstü\keremProje\Proje\Proje\bin\Debug\net6.0-windows\Proje.dll
+C:\Users\oztur\OneDrive\Masaüstü\keremProje\Proje\Proje\bin\Debug\net6.0-windows\Proje.pdb
+C:\Users\oztur\OneDrive\Masaüstü\keremProje\Proje\Proje\obj\Debug\net6.0-windows\Proje.csproj.AssemblyReference.cache
+C:\Users\oztur\OneDrive\Masaüstü\keremProje\Proje\Proje\obj\Debug\net6.0-windows\Proje.Form1.resources
+C:\Users\oztur\OneDrive\Masaüstü\keremProje\Proje\Proje\obj\Debug\net6.0-windows\Proje.csproj.GenerateResource.cache
+C:\Users\oztur\OneDrive\Masaüstü\keremProje\Proje\Proje\obj\Debug\net6.0-windows\Proje.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oztur\OneDrive\Masaüstü\keremProje\Proje\Proje\obj\Debug\net6.0-windows\Proje.AssemblyInfoInputs.cache
+C:\Users\oztur\OneDrive\Masaüstü\keremProje\Proje\Proje\obj\Debug\net6.0-windows\Proje.AssemblyInfo.cs
+C:\Users\oztur\OneDrive\Masaüstü\keremProje\Proje\Proje\obj\Debug\net6.0-windows\Proje.csproj.CoreCompileInputs.cache
+C:\Users\oztur\OneDrive\Masaüstü\keremProje\Proje\Proje\obj\Debug\net6.0-windows\Proje.dll
+C:\Users\oztur\OneDrive\Masaüstü\keremProje\Proje\Proje\obj\Debug\net6.0-windows\refint\Proje.dll
+C:\Users\oztur\OneDrive\Masaüstü\keremProje\Proje\Proje\obj\Debug\net6.0-windows\Proje.pdb
+C:\Users\oztur\OneDrive\Masaüstü\keremProje\Proje\Proje\obj\Debug\net6.0-windows\Proje.genruntimeconfig.cache
+C:\Users\oztur\OneDrive\Masaüstü\keremProje\Proje\Proje\obj\Debug\net6.0-windows\ref\Proje.dll
+C:\Users\oztur\OneDrive\Masaüstü\keremProje\Proje\Proje\obj\Debug\net6.0-windows\Proje.adminPanel.resources
+C:\Users\oztur\OneDrive\Masaüstü\keremProje\Proje\Proje\obj\Debug\net6.0-windows\Proje.KullanıcıPaneli.resources
+C:\Users\oztur\OneDrive\Masaüstü\Yeni klasör (3)\Proje\Proje\bin\Debug\net6.0-windows\Proje.exe
+C:\Users\oztur\OneDrive\Masaüstü\Yeni klasör (3)\Proje\Proje\bin\Debug\net6.0-windows\Proje.deps.json
+C:\Users\oztur\OneDrive\Masaüstü\Yeni klasör (3)\Proje\Proje\bin\Debug\net6.0-windows\Proje.runtimeconfig.json
+C:\Users\oztur\OneDrive\Masaüstü\Yeni klasör (3)\Proje\Proje\bin\Debug\net6.0-windows\Proje.dll
+C:\Users\oztur\OneDrive\Masaüstü\Yeni klasör (3)\Proje\Proje\bin\Debug\net6.0-windows\Proje.pdb
+C:\Users\oztur\OneDrive\Masaüstü\Yeni klasör (3)\Proje\Proje\obj\Debug\net6.0-windows\Proje.csproj.AssemblyReference.cache
+C:\Users\oztur\OneDrive\Masaüstü\Yeni klasör (3)\Proje\Proje\obj\Debug\net6.0-windows\Proje.adminPanel.resources
+C:\Users\oztur\OneDrive\Masaüstü\Yeni klasör (3)\Proje\Proje\obj\Debug\net6.0-windows\Proje.Form1.resources
+C:\Users\oztur\OneDrive\Masaüstü\Yeni klasör (3)\Proje\Proje\obj\Debug\net6.0-windows\Proje.KullanıcıPaneli.resources
+C:\Users\oztur\OneDrive\Masaüstü\Yeni klasör (3)\Proje\Proje\obj\Debug\net6.0-windows\Proje.csproj.GenerateResource.cache
+C:\Users\oztur\OneDrive\Masaüstü\Yeni klasör (3)\Proje\Proje\obj\Debug\net6.0-windows\Proje.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oztur\OneDrive\Masaüstü\Yeni klasör (3)\Proje\Proje\obj\Debug\net6.0-windows\Proje.AssemblyInfoInputs.cache
+C:\Users\oztur\OneDrive\Masaüstü\Yeni klasör (3)\Proje\Proje\obj\Debug\net6.0-windows\Proje.AssemblyInfo.cs
+C:\Users\oztur\OneDrive\Masaüstü\Yeni klasör (3)\Proje\Proje\obj\Debug\net6.0-windows\Proje.csproj.CoreCompileInputs.cache
+C:\Users\oztur\OneDrive\Masaüstü\Yeni klasör (3)\Proje\Proje\obj\Debug\net6.0-windows\Proje.dll
+C:\Users\oztur\OneDrive\Masaüstü\Yeni klasör (3)\Proje\Proje\obj\Debug\net6.0-windows\refint\Proje.dll
+C:\Users\oztur\OneDrive\Masaüstü\Yeni klasör (3)\Proje\Proje\obj\Debug\net6.0-windows\Proje.pdb
+C:\Users\oztur\OneDrive\Masaüstü\Yeni klasör (3)\Proje\Proje\obj\Debug\net6.0-windows\Proje.genruntimeconfig.cache
+C:\Users\oztur\OneDrive\Masaüstü\Yeni klasör (3)\Proje\Proje\obj\Debug\net6.0-windows\ref\Proje.dll
+C:\Users\oztur\OneDrive\Masaüstü\Her sey\Yeni klasör (3)\Proje\Proje\bin\Debug\net6.0-windows\Proje.exe
+C:\Users\oztur\OneDrive\Masaüstü\Her sey\Yeni klasör (3)\Proje\Proje\bin\Debug\net6.0-windows\Proje.deps.json
+C:\Users\oztur\OneDrive\Masaüstü\Her sey\Yeni klasör (3)\Proje\Proje\bin\Debug\net6.0-windows\Proje.runtimeconfig.json
+C:\Users\oztur\OneDrive\Masaüstü\Her sey\Yeni klasör (3)\Proje\Proje\bin\Debug\net6.0-windows\Proje.dll
+C:\Users\oztur\OneDrive\Masaüstü\Her sey\Yeni klasör (3)\Proje\Proje\bin\Debug\net6.0-windows\Proje.pdb
+C:\Users\oztur\OneDrive\Masaüstü\Her sey\Yeni klasör (3)\Proje\Proje\obj\Debug\net6.0-windows\Proje.adminPanel.resources
+C:\Users\oztur\OneDrive\Masaüstü\Her sey\Yeni klasör (3)\Proje\Proje\obj\Debug\net6.0-windows\Proje.Form1.resources
+C:\Users\oztur\OneDrive\Masaüstü\Her sey\Yeni klasör (3)\Proje\Proje\obj\Debug\net6.0-windows\Proje.KullanıcıPaneli.resources
+C:\Users\oztur\OneDrive\Masaüstü\Her sey\Yeni klasör (3)\Proje\Proje\obj\Debug\net6.0-windows\Proje.csproj.GenerateResource.cache
+C:\Users\oztur\OneDrive\Masaüstü\Her sey\Yeni klasör (3)\Proje\Proje\obj\Debug\net6.0-windows\Proje.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oztur\OneDrive\Masaüstü\Her sey\Yeni klasör (3)\Proje\Proje\obj\Debug\net6.0-windows\Proje.AssemblyInfoInputs.cache
+C:\Users\oztur\OneDrive\Masaüstü\Her sey\Yeni klasör (3)\Proje\Proje\obj\Debug\net6.0-windows\Proje.AssemblyInfo.cs
+C:\Users\oztur\OneDrive\Masaüstü\Her sey\Yeni klasör (3)\Proje\Proje\obj\Debug\net6.0-windows\Proje.csproj.CoreCompileInputs.cache
+C:\Users\oztur\OneDrive\Masaüstü\Her sey\Yeni klasör (3)\Proje\Proje\obj\Debug\net6.0-windows\Proje.dll
+C:\Users\oztur\OneDrive\Masaüstü\Her sey\Yeni klasör (3)\Proje\Proje\obj\Debug\net6.0-windows\refint\Proje.dll
+C:\Users\oztur\OneDrive\Masaüstü\Her sey\Yeni klasör (3)\Proje\Proje\obj\Debug\net6.0-windows\Proje.pdb
+C:\Users\oztur\OneDrive\Masaüstü\Her sey\Yeni klasör (3)\Proje\Proje\obj\Debug\net6.0-windows\Proje.genruntimeconfig.cache
+C:\Users\oztur\OneDrive\Masaüstü\Her sey\Yeni klasör (3)\Proje\Proje\obj\Debug\net6.0-windows\ref\Proje.dll

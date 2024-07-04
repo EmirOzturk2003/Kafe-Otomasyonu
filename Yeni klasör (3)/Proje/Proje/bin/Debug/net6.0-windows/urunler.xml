@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Urunler>
+  <Urunler>
+    <Urun_Adi>Sade Kahve</Urun_Adi>
+    <Urun_Fiyatı>24</Urun_Fiyatı>
+  </Urunler>
+  <Urunler>
+    <Urun_Adi>Türk Kahvesi</Urun_Adi>
+    <Urun_Fiyatı>4</Urun_Fiyatı>
+  </Urunler>
+  <Urunler>
+    <Urun_Adi>Sütlü Kahve</Urun_Adi>
+    <Urun_Fiyatı>7</Urun_Fiyatı>
+  </Urunler>
+  <Urunler>
+    <Urun_Adi>Klasik Kahve</Urun_Adi>
+    <Urun_Fiyatı>6</Urun_Fiyatı>
+  </Urunler>
+</Urunler>
